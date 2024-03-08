@@ -8,5 +8,5 @@ npm run dev
 ```
 
 ```
-npm run deploy
+npx wrangler deploy
 ```

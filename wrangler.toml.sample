@@ -1,0 +1,9 @@
+name = "ewitproxy"
+main = "src/index.ts"
+compatibility_date = "2023-12-01"
+node_compat = true
+
+[vars]
+POS_API_KEY = "Bearer xxxx"
+SECRET_KEY = "xxxx"
+
